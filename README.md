@@ -25,3 +25,9 @@
 业务员账号密码：zhangsan/123456
 
 其他角色根据角色自行创建并分配菜单
+![1](https://github.com/user-attachments/assets/c0c09f47-f089-43e6-b1b1-9b915d76f593)
+![2](https://github.com/user-attachments/assets/56cb011e-3030-4228-b9e9-17141e7c0d6d)
+![3](https://github.com/user-attachments/assets/dc997cd7-9fa3-425e-8fd2-8f97a87f82a9)
+![4](https://github.com/user-attachments/assets/6de57d2f-5735-45df-8abd-42e3239fd4a3)
+![5](https://github.com/user-attachments/assets/1da73ed9-1ed7-44e2-8e37-6db6c2510a4e)
+![6](https://github.com/user-attachments/assets/49ace38c-bea5-4e91-bc06-e2520e839c0e)
